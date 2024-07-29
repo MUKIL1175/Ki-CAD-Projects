@@ -1,1 +1,7 @@
-hie ris is just a try 
+git add
+
+git commit -m " "
+ 
+ git push orgin
+
+ use these to send file to orgin
