@@ -11,7 +11,6 @@ This repository hosts **PCB designs** suitable for a variety of electronic proje
 - **KiCad Project Files**: Complete project files for each PCB design.
 - **Schematic Diagrams**: Clear and easy-to-understand circuit schematics.
 - **Gerber Files**: Ready-to-manufacture Gerber files for PCB fabrication.
-- **Bill of Materials (BOM)**: A list of components required for each design, including suppliers.
 
 ## How to Use the Designs
 
