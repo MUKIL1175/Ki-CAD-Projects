@@ -1,7 +1,0 @@
-git add
-
-git commit -m " "
- 
- git push orgin
-
- use these to send file to orgin
