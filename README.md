@@ -31,7 +31,6 @@ This repository hosts **PCB designs** suitable for a variety of electronic proje
 For professional **PCB orders**, **custom designs**, or any inquiries related to the PCB manufacturing process, please get in touch:
 
 - **Name**: MONAMUKIL SS
-- **Phone**: +91 8883681431
 - **Email**: [mukil11ss@gmail.com](mailto:mukil11ss@gmail.com)
 
 ### Services Offered
